@@ -8,7 +8,7 @@ This is my implementation of JavaRush winter 2020 online internship test task.
 Technologies used:
  * Spring MVC
  * Spring Data JPA
- * Required software
+ * JSP
  * MySQL server
  * TomCat9 server
  * Bootstrap
